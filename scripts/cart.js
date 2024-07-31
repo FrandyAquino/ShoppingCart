@@ -62,14 +62,14 @@ export function displayCart() {
     const cartContainer = document.getElementById('aside-container');
     cartContainer.innerHTML = '';
     if (cart.length === 0) {
-        cartContainer.innerHTML = '<p style="color:white;">No hay productos en el carrito</p>';
+        cartContainer.innerHTML = '<p style="color:black;">No hay productos en el carrito</p>';
     } else {
         cart.forEach((product) => {
             const { title, totalPrice, image, quantity } = product;
             const cartHTML = `
             <div class="cart-product">
                 <div class="cart-product-info">
-                    <img src="${image}" alt="${title}" width="75px" height="auto">
+                    <img src="${image}" alt="${title}" width="75px" height="75px">
                     <div class="cart-product-center">
                         <h3>${title}</h3>
                         <div class="cart-product-row">

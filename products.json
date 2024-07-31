@@ -2,106 +2,106 @@
     {
         "id": 1,
         "title": "Laptop HP Gamer",
-        "description": "Descripción del producto 1",
-        "price": 10.99,
+        "description": "Laptop Gamer HP, procesador Intel i7 y 16GB de RAM ",
+        "price": 899.99,
         "url": "https://i5.walmartimages.com/asr/83628c45-9d16-41ce-b486-72d550eecba4_2.f98586e3da2c02e180d959d1ffdc730b.jpeg"
     },
     {
         "id": 2,
-        "title": "Producto 2",
-        "description": "Descripción del producto 2",
-        "price": 15.49,
-        "url": "https://i5.walmartimages.com/asr/e75a90e3-40a2-4d90-8df0-48e17f7a3ba2_1.57b8ecc8e7faddc8bcde83f5bc9d6e2f.jpeg"
+        "title": "Samsung Galaxy S21",
+        "description": "Smartphone Samsung Galaxy S21 con 128GB de almacenamiento.",
+        "price": 699.99,
+        "url": "https://cdn.alza.cz/ImgW.ashx?fd=f4&cd=SAMO0209b2&i=1.jpg"
     },
     {
         "id": 3,
-        "title": "Producto 3",
-        "description": "Descripción del producto 3",
-        "price": 20.00,
-        "url": "https://via.placeholder.com/300x300"
+        "title": "Sony WH-1000XM4",
+        "description": "Auriculares inalámbricos con cancelación de ruido.",
+        "price": 349.99,
+        "url": "https://electrohub.co.ke/wp-content/uploads/2021/04/6408356cv19d.jpg"
     },
     {
         "id": 4,
-        "title": "Producto 4",
-        "description": "Descripción del producto 4",
-        "price": 5.75,
-        "url": "https://via.placeholder.com/300x300"
+        "title": "Apple AirPods Pro",
+        "description": "Auriculares Apple AirPods Pro con cancelación de ruido.",
+        "price": 249.99,
+        "url": "https://th.bing.com/th/id/OIP.K8u0DXMK3_AL6zRu8BI1awHaJH?rs=1&pid=ImgDetMain"
     },
     {
         "id": 5,
-        "title": "Producto 5",
-        "description": "Descripción del producto 5",
-        "price": 7.99,
-        "url": "https://via.placeholder.com/300x300"
+        "title": "Sony PlayStation 5",
+        "description": "Consola de videojuegos Sony PlayStation 5 con disco.",
+        "price": 499.99,
+        "url": "https://cdn1.smartprix.com/rx-iRb1Qj5zT-w1200-h1200/sony-playstation-5-p.jpg"
     },
     {
         "id": 6,
-        "title": "Producto 6",
-        "description": "Descripción del producto 6",
-        "price": 12.49,
-        "url": "https://via.placeholder.com/300x300"
+        "title": "Kindle Paperwhite",
+        "description": "E-reader Kindle Paperwhite con pantalla de 6.8\" y luz ajustable.",
+        "price": 139.99,
+        "url": "https://th.bing.com/th/id/OIP.j67tYQMQv5wD428xc77VKQHaHB?rs=1&pid=ImgDetMain"
     },
     {
         "id": 7,
-        "title": "Producto 7",
-        "description": "Descripción del producto 7",
-        "price": 22.30,
-        "url": "https://via.placeholder.com/300x300"
+        "title": "Dell XPS 13",
+        "description": "Laptop Dell XPS 13 con procesador Intel i7 y 16GB de RAM.",
+        "price": 1199.99,
+        "url": "https://th.bing.com/th/id/OIP.ADjoUOy8GMryL7mgRCfvnwHaE3?rs=1&pid=ImgDetMain"
     },
     {
         "id": 8,
-        "title": "Producto 8",
-        "description": "Descripción del producto 8",
-        "price": 3.99,
-        "url": "https://via.placeholder.com/300x300"
+        "title": "Nikon D3500",
+        "description": "Cámara réflex digital Nikon D3500 con lente 18-55mm.",
+        "price": 449.95,
+        "url": "https://th.bing.com/th/id/R.05ca2553f0f7aac4810f7b291cbc00c4?rik=P8QDhELLcIXvzQ&pid=ImgRaw&r=0"
     },
     {
         "id": 9,
-        "title": "Producto 9",
-        "description": "Descripción del producto 9",
-        "price": 8.50,
-        "url": "https://via.placeholder.com/300x300"
+        "title": "Bose QuietComfort 35 II",
+        "description": "Auriculares Bose QuietComfort 35 II con cancelación activa de ruido.",
+        "price": 299.99,
+        "url": "https://th.bing.com/th/id/R.f3debc964897b6bcfbbfc8735e9ae593?rik=c8BUPZbwQk0E1Q&pid=ImgRaw&r=0"
     },
     {
         "id": 10,
-        "title": "Producto 10",
-        "description": "Descripción del producto 10",
-        "price": 19.99,
-        "url": "https://via.placeholder.com/300x300"
+        "title": "Apple Watch Series 7",
+        "description": "Reloj inteligente Apple Watch Series 7 con pantalla más grande.",
+        "price": 399.99,
+        "url": "https://th.bing.com/th/id/R.5b1d8d9bc8247a024bd47e3e8b28d239?rik=etsrvDhoVRswRg&pid=ImgRaw&r=0"
     },
     {
         "id": 11,
-        "title": "Producto 11",
-        "description": "Descripción del producto 11",
-        "price": 6.75,
-        "url": "https://via.placeholder.com/300x300"
+        "title": "GoPro HERO10 Black",
+        "description": "Cámara de acción GoPro HERO10 Black con grabación en 5.3K.",
+        "price": 499.99,
+        "url": "https://cdn.shopify.com/s/files/1/2532/7020/products/GoPro-HERO10-Black-Waterproof-Action-Camera-with-Front-LCD-and-Touch-Rear-Screens-side.jpg?v=1633684089"
     },
     {
         "id": 12,
-        "title": "Producto 12",
-        "description": "Descripción del producto 12",
-        "price": 11.20,
-        "url": "https://via.placeholder.com/300x300"
+        "title": "Oculus Quest 2",
+        "description": "Gafas de realidad virtual con 256GB de almacenamiento.",
+        "price": 399.00,
+        "url": "https://images.idgesg.net/images/article/2020/09/quest-2-100857824-orig.jpg"
     },
     {
         "id": 13,
-        "title": "Producto 13",
-        "description": "Descripción del producto 13",
-        "price": 14.99,
-        "url": "https://via.placeholder.com/300x300"
+        "title": "iPad Pro 2021",
+        "description": "Tableta iPad Pro 2021 con pantalla Liquid Retina de 12.9\".",
+        "price": 1099.99,
+        "url": "https://cdn.comparez-malin.fr/img/apple/2021/25419/apple-ipad-pro-11-m1-2021-3.jpg"
     },
     {
         "id": 14,
-        "title": "Producto 14",
-        "description": "Descripción del producto 14",
-        "price": 9.99,
-        "url": "https://via.placeholder.com/300x300"
+        "title": "Philips Hue White",
+        "description": "Bombilla inteligente Philips Hue White con control a través de app.",
+        "price": 49.99,
+        "url": "https://www.bhphotovideo.com/images/images2500x2500/philips_466508_hue_white_ambiance_br30_1302356.jpg"
     },
     {
         "id": 15,
-        "title": "Producto 15",
-        "description": "Descripción del producto 15",
-        "price": 16.49,
-        "url": "https://via.placeholder.com/300x300"
+        "title": "Logitech MX Master 3",
+        "description": "Ratón ergonómico con múltiples botones programables.",
+        "price": 99.99,
+        "url": "https://bigtechquestion.com/wp-content/uploads/2022/05/MX-Master-3-3_4-Front-Mid-Grey.jpg"
     }
 ]

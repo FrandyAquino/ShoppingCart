@@ -145,8 +145,7 @@ nav {
 #aside-container {
     position: fixed;
     right: 0;
-    background-color: #00000086;
-    backdrop-filter: blur(15px);
+    background-color: #ffffff;
     width: 400px;
     height: 100vh;
     margin: 0 auto;
@@ -220,7 +219,7 @@ nav {
     justify-content: start;
     align-items: center;
     gap: 10px;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .cart-product-center {
@@ -260,6 +259,7 @@ hr.dashed {
 }
 
 .cart-product-row{
+    height: 20px;
     display: flex;
     gap: 20px;
 }

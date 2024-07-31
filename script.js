@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const cartContainer = document.getElementById('aside-container');
         cartContainer.innerHTML = '';
         if (cart.length === 0) {
-            cartContainer.innerHTML = '<p style="color:white;">No hay productos en el carrito</p>';
+            cartContainer.innerHTML = '<p style="color:black;">No hay productos en el carrito</p>';
         } else {
             cart.forEach((product) => {
                 const { title, totalPrice, image, quantity } = product;
